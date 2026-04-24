@@ -1,0 +1,11 @@
+{
+  "Billing inquiry": ["billing", "payment", "invoice", "charged"],
+
+  "Refund request": ["refund", "return", "money back"],
+
+  "Cancellation request": ["cancel", "cancellation"],
+
+  "Product inquiry": ["product", "item", "replacement"],
+
+  "Technical issue": ["error", "bug", "app not working", "technical"]
+}

@@ -1,0 +1,92 @@
+intent,success,time
+greeting,True,2026-02-06 19:50:32.954920
+greeting,False,2026-02-06 19:50:43.503321
+greeting,False,2026-02-06 19:50:51.385689
+greeting,False,2026-02-06 19:51:02.525685
+greeting,False,2026-02-06 19:51:12.917025
+greeting,False,2026-02-06 20:04:46.924328
+refund,True,2026-02-06 20:04:55.105702
+greeting,False,2026-02-06 20:05:01.604357
+order_status,True,2026-02-07 22:59:39.529100
+order_status,True,2026-02-07 22:59:49.170810
+goodbye,False,2026-02-07 23:00:29.333434
+refund,False,2026-02-07 23:00:50.673925
+complaint,False,2026-02-07 23:01:10.606122
+order_status,True,2026-02-07 23:01:57.905143
+order_status,True,2026-02-07 23:02:02.267782
+goodbye,False,2026-02-07 23:02:49.300476
+goodbye,False,2026-02-07 23:14:17.613925
+goodbye,False,2026-02-07 23:14:29.840803
+goodbye,False,2026-02-07 23:15:09.543819
+goodbye,False,2026-02-07 23:16:01.135366
+product_info,False,2026-02-07 23:16:38.150463
+goodbye,False,2026-02-07 23:25:11.232359
+goodbye,False,2026-02-07 23:30:56.163477
+goodbye,False,2026-02-07 23:33:29.479073
+greeting,True,2026-02-08 00:18:26.035174
+order_status,True,2026-02-08 00:23:17.162357
+order_status,True,2026-02-08 00:23:25.580530
+return_refund,True,2026-02-08 00:23:39.641756
+cancellation,True,2026-02-08 00:23:59.148035
+offers,True,2026-02-08 00:24:08.209507
+complaint,True,2026-02-08 00:24:27.330973
+offers,True,2026-02-08 00:24:27.710745
+complaint,True,2026-02-08 00:24:34.142268
+account_payment,True,2026-02-08 00:24:56.802432
+complaint,True,2026-02-08 00:25:18.736565
+offers,True,2026-02-08 00:25:27.113304
+goodbye,True,2026-02-08 00:25:34.941826
+offers,True,2026-02-08 00:25:42.638114
+greeting,True,2026-02-08 00:42:50.815765
+greeting,True,2026-02-08 00:47:14.461145
+order_status,True,2026-02-08 00:47:24.311390
+cancellation,True,2026-02-08 00:50:59.629969
+return_refund,True,2026-02-08 00:51:31.568296
+complaint,True,2026-02-08 00:51:39.799211
+account_payment,True,2026-02-08 00:51:54.901323
+complaint,True,2026-02-08 00:52:32.511122
+offers,True,2026-02-08 00:52:33.447628
+offers,True,2026-02-08 00:52:45.573237
+greeting,False,2026-02-08 01:32:31.477483
+greeting,False,2026-02-08 01:58:06.936580
+greeting,False,2026-02-08 02:41:04.798531
+account_issue,False,2026-02-08 02:41:04.884933
+greeting,False,2026-02-08 02:41:11.236854
+greeting,False,2026-02-08 02:44:25.105783
+greeting,False,2026-02-08 02:46:13.352498
+greeting,False,2026-02-08 02:48:09.644394
+greeting,False,2026-02-08 02:53:53.331011
+greeting,True,2026-02-08 16:35:18.651154
+order_status,False,2026-02-08 16:35:26.484289
+offers,False,2026-02-08 16:35:43.711463
+Cancellation request,False,2026-02-08 17:19:36.065140
+Product inquiry,False,2026-02-08 17:20:54.279143
+Refund request,False,2026-02-08 17:26:13.978247
+Cancellation request,False,2026-02-08 17:26:58.015924
+Cancellation request,False,2026-02-08 17:27:27.934572
+Billing Issue,True,2026-02-08 17:36:45.522316
+Billing Issue,True,2026-02-08 17:36:48.273751
+Product inquiry,False,2026-02-14 14:31:07.730296
+Product inquiry,False,2026-02-14 14:31:07.815523
+Product inquiry,False,2026-02-14 14:31:07.909083
+Product inquiry,False,2026-02-14 14:31:08.029920
+Product inquiry,False,2026-02-14 14:31:08.136634
+Product inquiry,False,2026-02-14 14:31:08.234224
+Product inquiry,False,2026-02-14 14:31:08.327507
+Product inquiry,False,2026-02-14 14:31:08.409815
+Billing Issue,True,2026-02-14 14:31:24.493545
+Refund request,True,2026-02-14 14:36:49.805393
+Billing inquiry,True,2026-02-14 14:36:54.395553
+Refund request,False,2026-02-14 14:37:02.323926
+Refund request,False,2026-02-14 14:37:40.365576
+Cancellation request,True,2026-02-14 14:37:59.265772
+Product inquiry,False,2026-02-14 14:38:05.810733
+Billing inquiry,True,2026-02-14 15:05:49.201318
+Product inquiry,False,2026-02-14 15:05:53.075027
+Billing inquiry,True,2026-02-14 15:13:55.996749
+Product inquiry,False,2026-02-14 15:14:13.712866
+Product inquiry,False,2026-02-14 15:14:22.701286
+Product inquiry,False,2026-02-14 15:14:30.035778
+Billing inquiry,True,2026-02-14 15:32:42.573007
+Billing inquiry,True,2026-02-14 15:55:15.737858
+Product inquiry,False,2026-02-14 15:55:30.919775

@@ -1,0 +1,47 @@
+[
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-02-18 21:59:55.669789"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-11 00:08:00.000835"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-11 00:08:13.789227"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-11 15:29:08.558696"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-11 15:37:31.158065"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-11 15:37:49.516339"
+  },
+  {
+    "intent": "Billing inquiry",
+    "success": true,
+    "time": "2026-04-14 13:59:41.982126"
+  },
+  {
+    "intent": "Billing inquiry",
+    "success": true,
+    "time": "2026-04-14 14:00:18.325809"
+  },
+  {
+    "intent": "Product inquiry",
+    "success": false,
+    "time": "2026-04-14 14:00:32.377167"
+  }
+]

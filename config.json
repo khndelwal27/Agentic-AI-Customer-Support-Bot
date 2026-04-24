@@ -1,0 +1,4 @@
+{
+  "confidence_threshold": 0.45,
+  "escalation_message": "I'm not fully confident. Escalating this to human support."
+}

@@ -1,0 +1,501 @@
+Oorder_id,customer_name,email,product,category,order_date,payment_method,total_amount,status,estimated_delivery,refund_status,shipping_city
+ORD1001,Rahul Sharma,rahul1@gmail.com,Kurti Set,Fashion,2026-01-10,Credit Card,19361,Processing,2026-01-20,Pending Refund,Jaipur
+ORD1002,Karan Patel,karan2@gmail.com,Gaming Mouse,Electronics,2026-01-19,Debit Card,650,Refund Initiated,N/A,Pending Refund,Jaipur
+ORD1003,Karan Patel,karan3@gmail.com,Wireless Earbuds,Electronics,2026-01-16,Credit Card,725,Shipped,2026-01-26,Pending Refund,Chandigarh
+ORD1004,Priya Verma,priya4@gmail.com,Gaming Mouse,Electronics,2026-02-15,COD,18238,Refund Initiated,N/A,Completed,Delhi
+ORD1005,Rahul Sharma,rahul5@gmail.com,Smart Watch,Electronics,2026-02-15,COD,15346,Refund Initiated,N/A,Completed,Jaipur
+ORD1006,Karan Patel,karan6@gmail.com,Running Shoes,Fashion,2026-01-19,Debit Card,11350,Cancelled,N/A,Completed,Delhi
+ORD1007,Simran Kaur,simran7@gmail.com,Running Shoes,Fashion,2026-01-19,COD,13313,Processing,2026-01-26,None,Chandigarh
+ORD1008,Sneha Kapoor,sneha8@gmail.com,Kurti Set,Fashion,2026-02-01,Debit Card,2844,Refund Initiated,N/A,None,Kolkata
+ORD1009,Sneha Kapoor,sneha9@gmail.com,Mobile Phone,Electronics,2026-02-07,UPI,2821,Refund Initiated,N/A,Not Applicable,Mumbai
+ORD1010,Arjun Mehta,arjun10@gmail.com,Laptop Backpack,Accessories,2026-02-05,Debit Card,9580,Cancelled,N/A,Pending Refund,Hyderabad
+ORD1011,Amit Singh,amit11@gmail.com,Bluetooth Speaker,Electronics,2026-01-11,COD,551,Processing,2026-01-17,Pending Refund,Pune
+ORD1012,Priya Verma,priya12@gmail.com,Running Shoes,Fashion,2026-01-22,Debit Card,3031,Shipped,2026-01-24,Pending Refund,Chandigarh
+ORD1013,Karan Patel,karan13@gmail.com,Wireless Earbuds,Electronics,2026-01-29,Credit Card,10734,Shipped,2026-02-04,Pending Refund,Mumbai
+ORD1014,Priya Verma,priya14@gmail.com,Kurti Set,Fashion,2026-01-06,Credit Card,7576,Processing,2026-01-10,Completed,Delhi
+ORD1015,Karan Patel,karan15@gmail.cRunning Shoes,Fashion,2026-01-11,UPI,544,Refund Initiated,N/A,Completed,Pune
+ORD1016,Neha Gupta,neha16@gmail.com,Kurti Set,Fashion,2026-02-07,UPI,7269,Shipped,2026-02-09,Not Requested,Hyderabad
+ORD1017,Neha Gupta,neha17@gmail.com,Wireless Earbuds,Electronics,2026-01-29,Credit Card,15653,Shipped,2026-02-08,Not Requested,Kolkata
+ORD1018,Amit Singh,amit18@gmail.com,Running Shoes,Fashion,2026-02-10,Net Banking,11352,Shipped,2026-02-19,Not Requested,Chandigarh
+ORD1019,Karan Patel,karan19@gmail.com,Kurti Set,Fashion,2026-02-11,Debit Card,19675,Refund Initiated,N/A,Completed,Jaipur
+ORD1020,Priya Verma,priya20@gmail.com,Kurti Set,Fashion,2026-01-27,Credit Card,3120,Processing,2026-02-06,Completed,Bangalore
+ORD1021,Neha Gupta,neha21@gmail.com,Mobile Phone,Electronics,2026-02-15,UPI,18975,Refund Initiated,N/A,Not Requested,Delhi
+ORD1022,Sneha Kapoor,sneha22@gmail.com,Running Shoes,Fashion,2026-02-13,Debit Card,11787,Refund Initiated,N/A,None,Jaipur
+ORD1023,Sneha Kapoor,sneha23@gmail.com,Smart Watch,Electronics,2026-01-21,Net Banking,13686,Refund Initiated,N/A,Not Applicable,Chandigarh
+ORD1024,Arjun Mehta,arjun24@gmail.com,Kurti Set,Fashion,2026-01-11,Debit Card,19006,Refund Initiated,N/A,None,Pune
+ORD1025,Sneha Kapoor,sneha25@gmail.com,Laptop Backpack,Accessories,2026-01-04,Debit Card,4196,Cancelled,N/A,None,Chandigarh
+ORD1026,Rahul Sharma,rahul26@gmail.com,Laptop Backpack,Accessories,2026-01-22,Debit Card,3001,Delivered,2026-01-26,Completed,Jaipur
+ORD1027,Amit Singh,amit27@gmail.com,Running Shoes,Fashion,2026-01-14,UPI,9923,Cancelled,N/A,None,Pune
+ORD1028,Arjun Mehta,arjun28@gmail.com,Kurti Set,Fashion,2026-01-08,Credit Card,9698,Refund Initiated,N/A,Not Applicable,Bangalore
+ORD1029,Priya Verma,priya29@gmail.com,Bluetooth Speaker,Electronics,2026-01-15,COD,3097,Delivered,2026-01-21,Not Requested,Kolkata
+ORD1030,Priya Verma,priya30@gmail.com,Kurti Set,Fashion,2026-01-15,Credit Card,14164,Cancelled,N/A,Not Requested,Chandigarh
+ORD1031,Neha Gupta,neha31@gmail.com,Kurti Set,Fashion,2026-01-08,UPI,15887,Cancelled,N/A,Not Applicable,Jaipur
+ORD1032,Rahul Sharma,rahul32@gmail.com,Laptop Backpack,Accessories,2026-02-06,COD,15940,Shipped,2026-02-14,Not Applicable,Pune
+ORD1033,Rahul Sharma,rahul33@gmail.com,Smart Watch,Electronics,2026-02-12,UPI,14307,Cancelled,N/A,None,Jaipur
+ORD1034,Neha Gupta,neha34@gmail.com,Smart Watch,Electronics,2026-02-14,Credit Card,17011,Processing,2026-02-18,Completed,Kolkata
+ORD1035,Sneha Kapoor,sneha35@gmail.com,Running Shoes,Fashion,2026-02-02,Net Banking,18091,Refund Initiated,N/A,Not Applicable,Mumbai
+ORD1036,Neha Gupta,neha36@gmail.com,Wireless Earbuds,Electronics,2026-01-04,COD,12917,Refund Initiated,N/A,Pending Refund,Jaipur
+ORD1037,Amit Singh,amit37@gmail.com,Mobile Phone,Electronics,2026-02-03,UPI,7942,Cancelled,N/A,None,Hyderabad
+ORD1038,Karan Patel,karan38@gmail.com,Running Shoes,Fashion,2026-01-08,Debit Card,14840,Refund Initiated,N/A,None,Delhi
+ORD1039,Rahul Sharma,rahul39@gmail.com,Wireless Earbuds,Electronics,2026-02-13,COD,1293,Refund Initiated,N/A,Pending Refund,Jaipur
+ORD1040,Arjun Mehta,arjun40@gmail.com,Kurti Set,Fashion,2026-01-31,Debit Card,9402,Shipped,2026-02-07,Pending Refund,Kolkata
+ORD1041,Rahul Sharma,rahul41@gmail.com,Gaming Mouse,Electronics,2026-01-17,COD,11976,Processing,2026-01-22,Pending Refund,Mumbai
+ORD1042,Karan Patel,karan42@gmail.com,Wireless Earbuds,Electronics,2026-02-09,Net Banking,18923,Delivered,2026-02-15,Pending Refund,Jaipur
+ORD1043,Rahul Sharma,rahul43@gmail.com,Laptop Backpack,Accessories,2026-01-07,UPI,8622,Processing,2026-01-12,Not Applicable,Hyderabad
+ORD1044,Priya Verma,priya44@gmail.com,Smart Watch,Electronics,2026-02-01,COD,5577,Cancelled,N/A,Pending Refund,Kolkata
+ORD1045,Neha Gupta,neha45@gmail.com,Wireless Earbuds,Electronics,2026-02-01,COD,12999,Delivered,2026-02-08,Completed,Chandigarh
+ORD1046,Amit Singh,amit46@gmail.com,Running Shoes,Fashion,2026-01-20,Debit Card,5312,Processing,2026-01-22,Not Applicable,Chandigarh
+ORD1047,Simran Kaur,simran47@gmail.com,Wireless Earbuds,Electronics,2026-01-29,COD,13156,Refund Initiated,N/A,Not Requested,Jaipur
+ORD1048,Arjun Mehta,arjun48@gmail.com,Bluetooth Speaker,Electronics,2026-01-10,Debit Card,12396,Shipped,2026-01-17,Not Requested,Bangalore
+ORD1049,Karan Patel,karan49@gmail.com,Gaming Mouse,Electronics,2026-01-10,Credit Card,18925,Delivered,2026-01-16,Completed,Hyderabad
+ORD1050,Neha Gupta,neha50@gmail.com,Running Shoes,Fashion,2026-01-27,COD,3574,Processing,2026-02-03,Completed,Jaipur
+ORD1051,Amit Singh,amit51@gmail.com,Laptop Backpack,Accessories,2026-01-21,Net Banking,1128,Delivered,2026-01-31,None,Jaipur
+ORD1052,Arjun Mehta,arjun52@gmail.com,Kurti Set,Fashion,2026-01-13,Credit Card,14446,Delivered,2026-01-15,Pending Refund,Hyderabad
+ORD1053,Priya Verma,priya53@gmail.com,Mobile Phone,Electronics,2026-01-10,UPI,4230,Delivered,2026-01-12,Pending Refund,Jaipur
+ORD1054,Simran Kaur,simran54@gmail.com,Mobile Phone,Electronics,2026-01-18,COD,10264,Delivered,2026-01-22,Completed,Chandigarh
+ORD1055,Simran Kaur,simran55@gmail.com,Laptop Backpack,Accessories,2026-01-03,UPI,19149,Refund Initiated,N/A,Pending Refund,Delhi
+ORD1056,Simran Kaur,simran56@gmail.com,Laptop Backpack,Accessories,2026-02-07,Credit Card,4046,Processing,2026-02-13,Pending Refund,Jaipur
+ORD1057,Sneha Kapoor,sneha57@gmail.com,Mobile Phone,Electronics,2026-01-05,Debit Card,8779,Processing,2026-01-15,None,Jaipur
+ORD1058,Sneha Kapoor,sneha58@gmail.com,Running Shoes,Fashion,2026-02-15,Debit Card,14720,Cancelled,N/A,Pending Refund,Kolkata
+ORD1059,Priya Verma,priya59@gmail.com,Bluetooth Speaker,Electronics,2026-01-25,Debit Card,5895,Processing,2026-02-01,None,Chandigarh
+ORD1060,Amit Singh,amit60@gmail.com,Running Shoes,Fashion,2026-01-04,UPI,716,Refund Initiated,N/A,Completed,Pune
+ORD1061,Amit Singh,amit61@gmail.com,Laptop Backpack,Accessories,2026-01-08,UPI,2668,Processing,2026-01-14,Not Applicable,Chandigarh
+ORD1062,Priya Verma,priya62@gmail.com,Gaming Mouse,Electronics,2026-01-27,COD,4438,Refund Initiated,N/A,Completed,Kolkata
+ORD1063,Neha Gupta,neha63@gmail.com,Kurti Set,Fashion,2026-01-22,Net Banking,7954,Cancelled,N/A,Not Requested,Jaipur
+ORD1064,Simran Kaur,simran64@gmail.com,Laptop Backpack,Accessories,2026-01-16,COD,17872,Shipped,2026-01-20,Not Requested,Delhi
+ORD1065,Arjun Mehta,arjun65@gmail.com,Bluetooth Speaker,Electronics,2026-01-16,Net Banking,19307,Shipped,2026-01-23,Not Applicable,Kolkata
+ORD1066,Priya Verma,priya66@gmail.com,Mobile Phone,Electronics,2026-02-07,Debit Card,9035,Delivered,2026-02-12,Not Requested,Chandigarh
+ORD1067,Rahul Sharma,rahul67@gmail.com,Laptop Backpack,Accessories,2026-01-26,Credit Card,5769,Processing,2026-01-30,Pending Refund,Bangalore
+ORD1068,Priya Verma,priya68@gmail.com,Bluetooth Speaker,Electronics,2026-01-26,COD,2694,Cancelled,N/A,Not Applicable,Chandigarh
+ORD1069,Arjun Mehta,arjun69@gmail.com,Wireless Earbuds,Electronics,2026-01-11,COD,14113,Processing,2026-01-18,None,Jaipur
+ORD1070,Priya Verma,priya70@gmail.com,Bluetooth Speaker,Electronics,2026-02-06,Net Banking,12551,Delivered,2026-02-10,Pending Refund,Jaipur
+ORD1071,Simran Kaur,simran71@gmail.com,Kurti Set,Fashion,2026-02-08,UPI,13613,Shipped,2026-02-14,Pending Refund,Chandigarh
+ORD1072,Sneha Kapoor,sneha72@gmail.com,Laptop Backpack,Accessories,2026-01-12,Debit Card,10713,Shipped,2026-01-16,Not Requested,Pune
+ORD1073,Arjun Mehta,arjun73@gmail.com,Running Shoes,Fashion,2026-01-08,COD,5658,Refund Initiated,N/A,Not Requested,Mumbai
+ORD1074,Priya Verma,priya74@gmail.com,Mobile Phone,Electronics,2026-01-07,Net Banking,5763,Delivered,2026-01-11,None,Delhi
+ORD1075,Neha Gupta,neha75@gmail.com,Gaming Mouse,Electronics,2026-01-04,UPI,5508,Refund Initiated,N/A,Pending Refund,Hyderabad
+ORD1076,Karan Patel,karan76@gmail.com,Kurti Set,Fashion,2026-01-10,Debit Card,10787,Delivered,2026-01-18,Completed,Kolkata
+ORD1077,Amit Singh,amit77@gmail.com,Bluetooth Speaker,Electronics,2026-01-22,Debit Card,13264,Processing,2026-01-31,Not Applicable,Pune
+ORD1078,Arjun Mehta,arjun78@gmail.com,Running Shoes,Fashion,2026-01-31,COD,4267,Processing,2026-02-08,Not Applicable,Chandigarh
+ORD1079,Karan Patel,karan79@gmail.com,Smart Watch,Electronics,2026-02-09,UPI,3477,Shipped,2026-02-19,Not Requested,Pune
+ORD1080,Karan Patel,karan80@gmail.com,Gaming Mouse,Electronics,2026-01-09,Net Banking,5540,Delivered,2026-01-12,Completed,Pune
+ORD1081,Neha Gupta,neha81@gmail.com,Wireless Earbuds,Electronics,2026-01-18,Net Banking,13365,Refund Initiated,N/A,Not Requested,Pune
+ORD1082,Rahul Sharma,rahul82@gmail.com,Running Shoes,Fashion,2026-01-21,UPI,7486,Delivered,2026-01-28,Completed,Chandigarh
+ORD1083,Arjun Mehta,arjun83@gmail.com,Mobile Phone,Electronics,2026-01-21,COD,8346,Refund Initiated,N/A,Pending Refund,Bangalore
+ORD1084,Priya Verma,priya84@gmail.com,Gaming Mouse,Electronics,2026-01-23,UPI,10634,Delivered,2026-01-29,None,Delhi
+ORD1085,Rahul Sharma,rahul85@gmail.com,Bluetooth Speaker,Electronics,2026-01-19,Credit Card,15831,Refund Initiated,N/A,None,Hyderabad
+ORD1086,Priya Verma,priya86@gmail.com,Smart Watch,Electronics,2026-01-03,COD,19450,Delivered,2026-01-05,Completed,Kolkata
+ORD1087,Arjun Mehta,arjun87@gmail.com,Running Shoes,Fashion,2026-01-14,UPI,2222,Shipped,2026-01-23,Not Requested,Bangalore
+ORD1088,Rahul Sharma,rahul88@gmail.com,Smart Watch,Electronics,2026-02-06,COD,5357,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1089,Sneha Kapoor,sneha89@gmail.com,Laptop Backpack,Accessories,2026-02-03,Credit Card,18490,Shipped,2026-02-10,Not Applicable,Kolkata
+ORD1090,Priya Verma,priya90@gmail.com,Mobile Phone,Electronics,2026-01-12,Credit Card,15372,Refund Initiated,N/A,Not Requested,Bangalore
+ORD1091,Priya Verma,priya91@gmail.com,Laptop Backpack,Accessories,2026-01-07,UPI,2779,Delivered,2026-01-13,Pending Refund,Pune
+ORD1092,Rahul Sharma,rahul92@gmail.com,Laptop Backpack,Accessories,2026-01-22,Debit Card,16393,Refund Initiated,N/A,Not Requested,Pune
+ORD1093,Arjun Mehta,arjun93@gmail.com,Kurti Set,Fashion,2026-01-29,Net Banking,7922,Delivered,2026-02-05,Pending Refund,Mumbai
+ORD1094,Amit Singh,amit94@gmail.com,Laptop Backpack,Accessories,2026-02-08,Debit Card,17464,Processing,2026-02-14,Pending Refund,Kolkata
+ORD1095,Simran Kaur,simran95@gmail.com,Bluetooth Speaker,Electronics,2026-01-08,UPI,12235,Delivered,2026-01-15,Completed,Kolkata
+ORD1096,Sneha Kapoor,sneha96@gmail.com,Laptop Backpack,Accessories,2026-01-13,Credit Card,5252,Delivered,2026-01-16,Not Applicable,Delhi
+ORD1097,Rahul Sharma,rahul97@gmail.com,Kurti Set,Fashion,2026-01-25,Net Banking,14761,Refund Initiated,N/A,Pending Refund,Delhi
+ORD1098,Amit Singh,amit98@gmail.com,Kurti Set,Fashion,2026-01-17,Debit Card,11805,Refund Initiated,N/A,Not Requested,Hyderabad
+ORD1099,Rahul Sharma,rahul99@gmail.com,Running Shoes,Fashion,2026-02-04,COD,7248,Delivered,2026-02-06,Pending Refund,Kolkata
+ORD1100,Amit Singh,amit100@gmail.com,Laptop Backpack,Accessories,2026-02-12,UPI,14081,Cancelled,N/A,Not Applicable,Hyderabad
+ORD1101,Rahul Sharma,rahul101@gmail.com,Wireless Earbuds,Electronics,2026-02-06,Debit Card,6440,Cancelled,N/A,Not Applicable,Pune
+ORD1102,Arjun Mehta,arjun102@gmail.com,Kurti Set,Fashion,2026-01-30,Net Banking,2004,Delivered,2026-02-07,Pending Refund,Bangalore
+ORD1103,Amit Singh,amit103@gmail.com,Smart Watch,Electronics,2026-01-07,UPI,11645,Processing,2026-01-09,Pending Refund,Jaipur
+ORD1104,Simran Kaur,simran104@gmail.com,Gaming Mouse,Electronics,2026-01-21,Credit Card,1107,Processing,2026-01-23,Not Requested,Hyderabad
+ORD1105,Karan Patel,karan105@gmail.com,Gaming Mouse,Electronics,2026-02-10,Debit Card,3478,Processing,2026-02-15,Not Applicable,Chandigarh
+ORD1106,Neha Gupta,neha106@gmail.com,Smart Watch,Electronics,2026-01-29,Credit Card,5378,Cancelled,N/A,Not Applicable,Pune
+ORD1107,Priya Verma,priya107@gmail.com,Bluetooth Speaker,Electronics,2026-01-16,UPI,13994,Delivered,2026-01-23,Completed,Chandigarh
+ORD1108,Priya Verma,priya108@gmail.com,Bluetooth Speaker,Electronics,2026-02-12,Debit Card,676,Delivered,2026-02-18,Not Applicable,Hyderabad
+ORD1109,Amit Singh,amit109@gmail.com,Laptop Backpack,Accessories,2026-01-03,Net Banking,13508,Shipped,2026-01-12,None,Mumbai
+ORD1110,Rahul Sharma,rahul110@gmail.com,Laptop Backpack,Accessories,2026-01-05,Debit Card,19002,Processing,2026-01-12,Not Requested,Kolkata
+ORD1111,Rahul Sharma,rahul111@gmail.com,Kurti Set,Fashion,2026-01-18,Net Banking,5833,Processing,2026-01-23,Pending Refund,Jaipur
+ORD1112,Rahul Sharma,rahul112@gmail.com,Wireless Earbuds,Electronics,2026-01-31,Net Banking,18041,Refund Initiated,N/A,Pending Refund,Kolkata
+ORD1113,Rahul Sharma,rahul113@gmail.com,Smart Watch,Electronics,2026-01-24,Credit Card,8698,Cancelled,N/A,Not Applicable,Hyderabad
+ORD1114,Rahul Sharma,rahul114@gmail.com,Laptop Backpack,Accessories,2026-02-03,Credit Card,13479,Shipped,2026-02-13,Pending Refund,Jaipur
+ORD1115,Priya Verma,priya115@gmail.com,Laptop Backpack,Accessories,2026-01-08,Credit Card,10290,Delivered,2026-01-17,None,Bangalore
+ORD1116,Rahul Sharma,rahul116@gmail.com,Gaming Mouse,Electronics,2026-02-13,Debit Card,4435,Delivered,2026-02-23,Pending Refund,Kolkata
+ORD1117,Karan Patel,karan117@gmail.com,Gaming Mouse,Electronics,2026-02-12,UPI,13468,Delivered,2026-02-19,None,Chandigarh
+ORD1118,Simran Kaur,simran118@gmail.com,Kurti Set,Fashion,2026-02-07,UPI,15234,Refund Initiated,N/A,Completed,Hyderabad
+ORD1119,Karan Patel,karan119@gmail.com,Running Shoes,Fashion,2026-01-16,Net Banking,2651,Shipped,2026-01-26,None,Hyderabad
+ORD1120,Neha Gupta,neha120@gmail.com,Running Shoes,Fashion,2026-02-04,COD,14388,Cancelled,N/A,Not Applicable,Chandigarh
+ORD1121,Sneha Kapoor,sneha121@gmail.com,Gaming Mouse,Electronics,2026-01-06,Net Banking,13147,Processing,2026-01-13,Pending Refund,Mumbai
+ORD1122,Rahul Sharma,rahul122@gmail.com,Laptop Backpack,Accessories,2026-02-09,COD,14851,Processing,2026-02-12,None,Kolkata
+ORD1123,Karan Patel,karan123@gmail.com,Gaming Mouse,Electronics,2026-01-14,COD,6607,Shipped,2026-01-19,Not Applicable,Jaipur
+ORD1124,Amit Singh,amit124@gmail.com,Bluetooth Speaker,Electronics,2026-01-13,Net Banking,5943,Refund Initiated,N/A,None,Pune
+ORD1125,Rahul Sharma,rahul125@gmail.com,Kurti Set,Fashion,2026-01-07,Net Banking,16987,Cancelled,N/A,Completed,Hyderabad
+ORD1126,Simran Kaur,simran126@gmail.com,Laptop Backpack,Accessories,2026-02-08,COD,16979,Refund Initiated,N/A,Not Applicable,Jaipur
+ORD1127,Simran Kaur,simran127@gmail.com,Wireless Earbuds,Electronics,2026-01-19,Debit Card,6317,Shipped,2026-01-25,Not Requested,Hyderabad
+ORD1128,Rahul Sharma,rahul128@gmail.com,Mobile Phone,Electronics,2026-01-30,UPI,12569,Cancelled,N/A,None,Bangalore
+ORD1129,Karan Patel,karan129@gmail.com,Smart Watch,Electronics,2026-02-15,Debit Card,2367,Shipped,2026-02-19,Not Applicable,Jaipur
+ORD1130,Sneha Kapoor,sneha130@gmail.com,Smart Watch,Electronics,2026-02-11,UPI,18752,Shipped,2026-02-16,Pending Refund,Kolkata
+ORD1131,Amit Singh,amit131@gmail.com,Gaming Mouse,Electronics,2026-01-30,Net Banking,9681,Refund Initiated,N/A,Not Requested,Pune
+ORD1132,Amit Singh,amit132@gmail.com,Kurti Set,Fashion,2026-01-21,COD,5314,Delivered,2026-01-27,Pending Refund,Hyderabad
+ORD1133,Rahul Sharma,rahul133@gmail.com,Gaming Mouse,Electronics,2026-01-24,Debit Card,2998,Shipped,2026-01-31,Completed,Bangalore
+ORD1134,Sneha Kapoor,sneha134@gmail.com,Smart Watch,Electronics,2026-01-20,Net Banking,4091,Delivered,2026-01-23,None,Bangalore
+ORD1135,Karan Patel,karan135@gmail.com,Smart Watch,Electronics,2026-01-26,Net Banking,6226,Delivered,2026-01-29,Not Requested,Mumbai
+ORD1136,Karan Patel,karan136@gmail.com,Bluetooth Speaker,Electronics,2026-02-13,Credit Card,19423,Shipped,2026-02-15,Completed,Bangalore
+ORD1137,Amit Singh,amit137@gmail.com,Running Shoes,Fashion,2026-01-11,UPI,6495,Processing,2026-01-18,Not Applicable,Bangalore
+ORD1138,Rahul Sharma,rahul138@gmail.com,Kurti Set,Fashion,2026-01-27,UPI,13146,Shipped,2026-02-01,Not Requested,Jaipur
+ORD1139,Simran Kaur,simran139@gmail.com,Mobile Phone,Electronics,2026-01-16,Net Banking,13978,Cancelled,N/A,Completed,Pune
+ORD1140,Amit Singh,amit140@gmail.com,Running Shoes,Fashion,2026-01-06,Debit Card,14119,Shipped,2026-01-11,Pending Refund,Bangalore
+ORD1141,Amit Singh,amit141@gmail.com,Running Shoes,Fashion,2026-02-07,Credit Card,5269,Delivered,2026-02-16,Not Requested,Kolkata
+ORD1142,Rahul Sharma,rahul142@gmail.com,Running Shoes,Fashion,2026-01-30,Debit Card,2162,Delivered,2026-02-06,Completed,Kolkata
+ORD1143,Karan Patel,karan143@gmail.com,Kurti Set,Fashion,2026-02-01,Net Banking,9875,Cancelled,N/A,Not Applicable,Chandigarh
+ORD1144,Rahul Sharma,rahul144@gmail.com,Running Shoes,Fashion,2026-02-02,UPI,2255,Processing,2026-02-10,Not Applicable,Bangalore
+ORD1145,Rahul Sharma,rahul145@gmail.com,Wireless Earbuds,Electronics,2026-01-08,Net Banking,5292,Cancelled,N/A,None,Delhi
+ORD1146,Arjun Mehta,arjun146@gmail.com,Running Shoes,Fashion,2026-01-03,Credit Card,14306,Delivered,2026-01-09,Completed,Kolkata
+ORD1147,Simran Kaur,simran147@gmail.com,Kurti Set,Fashion,2026-01-05,Credit Card,1053,Refund Initiated,N/A,Not Applicable,Chandigarh
+ORD1148,Sneha Kapoor,sneha148@gmail.com,Laptop Backpack,Accessories,2026-01-04,Credit Card,10621,Cancelled,N/A,Not Requested,Kolkata
+ORD1149,Neha Gupta,neha149@gmail.com,Smart Watch,Electronics,2026-01-07,Credit Card,1791,Refund Initiated,N/A,Completed,Pune
+ORD1150,Simran Kaur,simran150@gmail.com,Running Shoes,Fashion,2026-01-14,Credit Card,6477,Shipped,2026-01-20,None,Mumbai
+ORD1151,Arjun Mehta,arjun151@gmail.com,Laptop Backpack,Accessories,2026-01-11,COD,4644,Cancelled,N/A,Not Requested,Bangalore
+ORD1152,Amit Singh,amit152@gmail.com,Laptop Backpack,Accessories,2026-01-26,COD,1873,Delivered,2026-01-28,Completed,Mumbai
+ORD1153,Amit Singh,amit153@gmail.com,Gaming Mouse,Electronics,2026-01-30,Credit Card,5441,Shipped,2026-02-07,Not Requested,Bangalore
+ORD1154,Arjun Mehta,arjun154@gmail.com,Smart Watch,Electronics,2026-01-30,UPI,10193,Refund Initiated,N/A,Completed,Kolkata
+ORD1155,Amit Singh,amit155@gmail.com,Smart Watch,Electronics,2026-01-24,Net Banking,3968,Cancelled,N/A,Not Applicable,Kolkata
+ORD1156,Priya Verma,priya156@gmail.com,Wireless Earbuds,Electronics,2026-02-01,UPI,15573,Shipped,2026-02-03,None,Jaipur
+ORD1157,Arjun Mehta,arjun157@gmail.com,Gaming Mouse,Electronics,2026-01-10,COD,18963,Processing,2026-01-14,Pending Refund,Pune
+ORD1158,Sneha Kapoor,sneha158@gmail.com,Running Shoes,Fashion,2026-01-14,Debit Card,12393,Processing,2026-01-17,Not Requested,Jaipur
+ORD1159,Sneha Kapoor,sneha159@gmail.com,Gaming Mouse,Electronics,2026-01-28,COD,13121,Refund Initiated,N/A,Completed,Hyderabad
+ORD1160,Simran Kaur,simran160@gmail.com,Smart Watch,Electronics,2026-01-04,Debit Card,6013,Refund Initiated,N/A,Pending Refund,Hyderabad
+ORD1161,Neha Gupta,neha161@gmail.com,Kurti Set,Fashion,2026-02-12,COD,5652,Delivered,2026-02-14,None,Bangalore
+ORD1162,Priya Verma,priya162@gmail.com,Bluetooth Speaker,Electronics,2026-01-19,COD,4884,Refund Initiated,N/A,Not Requested,Mumbai
+ORD1163,Arjun Mehta,arjun163@gmail.com,Running Shoes,Fashion,2026-02-06,Net Banking,3294,Shipped,2026-02-09,Not Applicable,Kolkata
+ORD1164,Sneha Kapoor,sneha164@gmail.com,Bluetooth Speaker,Electronics,2026-02-13,UPI,19049,Cancelled,N/A,Pending Refund,Hyderabad
+ORD1165,Arjun Mehta,arjun165@gmail.com,Mobile Phone,Electronics,2026-02-11,COD,10444,Delivered,2026-02-19,Completed,Pune
+ORD1166,Neha Gupta,neha166@gmail.com,Running Shoes,Fashion,2026-01-05,Credit Card,2601,Refund Initiated,N/A,Not Requested,Hyderabad
+ORD1167,Simran Kaur,simran167@gmail.com,Gaming Mouse,Electronics,2026-01-12,UPI,17238,Delivered,2026-01-19,Not Applicable,Chandigarh
+ORD1168,Neha Gupta,neha168@gmail.com,Running Shoes,Fashion,2026-01-30,UPI,7188,Delivered,2026-02-08,Completed,Hyderabad
+ORD1169,Amit Singh,amit169@gmail.com,Kurti Set,Fashion,2026-01-18,Credit Card,8200,Processing,2026-01-22,Not Applicable,Hyderabad
+ORD1170,Simran Kaur,simran170@gmail.com,Running Shoes,Fashion,2026-02-02,Debit Card,2659,Refund Initiated,N/A,None,Hyderabad
+ORD1171,Karan Patel,karan171@gmail.com,Wireless Earbuds,Electronics,2026-02-01,Debit Card,10107,Delivered,2026-02-05,None,Delhi
+ORD1172,Karan Patel,karan172@gmail.com,Smart Watch,Electronics,2026-02-01,Net Banking,15144,Cancelled,N/A,None,Kolkata
+ORD1173,Arjun Mehta,arjun173@gmail.com,Kurti Set,Fashion,2026-01-22,COD,2039,Delivered,2026-01-31,Pending Refund,Mumbai
+ORD1174,Rahul Sharma,rahul174@gmail.com,Smart Watch,Electronics,2026-02-12,Net Banking,13710,Shipped,2026-02-17,Not Requested,Delhi
+ORD1175,Arjun Mehta,arjun175@gmail.com,Mobile Phone,Electronics,2026-01-18,Net Banking,10086,Delivered,2026-01-27,Not Requested,Mumbai
+ORD1176,Amit Singh,amit176@gmail.com,Gaming Mouse,Electronics,2026-01-31,Debit Card,17974,Processing,2026-02-09,Pending Refund,Chandigarh
+ORD1177,Sneha Kapoor,sneha177@gmail.com,Bluetooth Speaker,Electronics,2026-01-04,COD,19747,Delivered,2026-01-09,Not Applicable,Chandigarh
+ORD1178,Rahul Sharma,rahul178@gmail.com,Gaming Mouse,Electronics,2026-02-05,Credit Card,11585,Processing,2026-02-08,None,Bangalore
+ORD1179,Arjun Mehta,arjun179@gmail.com,Laptop Backpack,Accessories,2026-02-04,Net Banking,14029,Cancelled,N/A,Not Applicable,Delhi
+ORD1180,Arjun Mehta,arjun180@gmail.com,Laptop Backpack,Accessories,2026-01-29,UPI,14552,Processing,2026-02-06,Completed,Hyderabad
+ORD1181,Rahul Sharma,rahul181@gmail.com,Gaming Mouse,Electronics,2026-02-12,UPI,4165,Cancelled,N/A,Completed,Delhi
+ORD1182,Simran Kaur,simran182@gmail.com,Laptop Backpack,Accessories,2026-01-09,Net Banking,14189,Refund Initiated,N/A,Pending Refund,Chandigarh
+ORD1183,Priya Verma,priya183@gmail.com,Laptop Backpack,Accessories,2026-01-06,Net Banking,958,Refund Initiated,N/A,Not Requested,Mumbai
+ORD1184,Karan Patel,karan184@gmail.com,Laptop Backpack,Accessories,2026-02-04,UPI,10734,Processing,2026-02-06,None,Bangalore
+ORD1185,Simran Kaur,simran185@gmail.com,Wireless Earbuds,Electronics,2026-01-15,UPI,6144,Shipped,2026-01-24,Pending Refund,Delhi
+ORD1186,Sneha Kapoor,sneha186@gmail.com,Wireless Earbuds,Electronics,2026-02-02,Net Banking,9199,Cancelled,N/A,None,Mumbai
+ORD1187,Simran Kaur,simran187@gmail.com,Mobile Phone,Electronics,2026-01-09,Credit Card,7302,Shipped,2026-01-19,Completed,Delhi
+ORD1188,Sneha Kapoor,sneha188@gmail.com,Bluetooth Speaker,Electronics,2026-01-03,Credit Card,12944,Shipped,2026-01-10,None,Hyderabad
+ORD1189,Arjun Mehta,arjun189@gmail.com,Gaming Mouse,Electronics,2026-02-01,Net Banking,11199,Delivered,2026-02-03,Pending Refund,Chandigarh
+ORD1190,Simran Kaur,simran190@gmail.com,Running Shoes,Fashion,2026-02-07,UPI,9457,Processing,2026-02-14,Not Requested,Delhi
+ORD1191,Karan Patel,karan191@gmail.com,Gaming Mouse,Electronics,2026-01-18,Net Banking,2802,Cancelled,N/A,Completed,Delhi
+ORD1192,Simran Kaur,simran192@gmail.com,Smart Watch,Electronics,2026-01-09,Net Banking,2311,Processing,2026-01-11,Completed,Delhi
+ORD1193,Rahul Sharma,rahul193@gmail.com,Running Shoes,Fashion,2026-01-29,Net Banking,2357,Processing,2026-01-31,Not Requested,Chandigarh
+ORD1194,Simran Kaur,simran194@gmail.com,Laptop Backpack,Accessories,2026-01-11,UPI,14119,Delivered,2026-01-16,Not Applicable,Hyderabad
+ORD1195,Arjun Mehta,arjun195@gmail.com,Wireless Earbuds,Electronics,2026-01-20,Credit Card,7935,Delivered,2026-01-28,None,Jaipur
+ORD1196,Simran Kaur,simran196@gmail.com,Gaming Mouse,Electronics,2026-02-09,Debit Card,8630,Processing,2026-02-12,Not Applicable,Kolkata
+ORD1197,Arjun Mehta,arjun197@gmail.com,Smart Watch,Electronics,2026-02-10,Credit Card,4133,Delivered,2026-02-18,None,Bangalore
+ORD1198,Rahul Sharma,rahul198@gmail.com,Kurti Set,Fashion,2026-02-08,UPI,8162,Refund Initiated,N/A,Completed,Pune
+ORD1199,Sneha Kapoor,sneha199@gmail.com,Smart Watch,Electronics,2026-02-12,Credit Card,5742,Delivered,2026-02-19,Completed,Chandigarh
+ORD1200,Rahul Sharma,rahul200@gmail.com,Mobile Phone,Electronics,2026-01-06,UPI,6406,Shipped,2026-01-12,Completed,Bangalore
+ORD1201,Sneha Kapoor,sneha201@gmail.com,Running Shoes,Fashion,2026-01-31,COD,9380,Processing,2026-02-02,None,Hyderabad
+ORD1202,Arjun Mehta,arjun202@gmail.com,Gaming Mouse,Electronics,2026-01-17,UPI,900,Shipped,2026-01-24,Not Requested,Hyderabad
+ORD1203,Arjun Mehta,arjun203@gmail.com,Laptop Backpack,Accessories,2026-01-11,Credit Card,13389,Cancelled,N/A,Not Requested,Bangalore
+ORD1204,Simran Kaur,simran204@gmail.com,Mobile Phone,Electronics,2026-01-09,COD,15638,Processing,2026-01-18,Completed,Hyderabad
+ORD1205,Rahul Sharma,rahul205@gmail.com,Wireless Earbuds,Electronics,2026-01-04,Net Banking,4207,Delivered,2026-01-10,Not Applicable,Mumbai
+ORD1206,Simran Kaur,simran206@gmail.com,Mobile Phone,Electronics,2026-01-13,Credit Card,15825,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1207,Priya Verma,priya207@gmail.com,Running Shoes,Fashion,2026-01-09,UPI,7109,Processing,2026-01-15,Not Requested,Kolkata
+ORD1208,Simran Kaur,simran208@gmail.com,Running Shoes,Fashion,2026-01-15,Net Banking,15139,Shipped,2026-01-19,Completed,Bangalore
+ORD1209,Amit Singh,amit209@gmail.com,Gaming Mouse,Electronics,2026-02-13,COD,4983,Shipped,2026-02-15,Not Requested,Pune
+ORD1210,Amit Singh,amit210@gmail.com,Running Shoes,Fashion,2026-01-01,COD,16808,Processing,2026-01-08,None,Chandigarh
+ORD1211,Sneha Kapoor,sneha211@gmail.com,Kurti Set,Fashion,2026-02-08,Net Banking,17734,Cancelled,N/A,Pending Refund,Pune
+ORD1212,Arjun Mehta,arjun212@gmail.com,Kurti Set,Fashion,2026-02-14,UPI,880,Shipped,2026-02-22,None,Bangalore
+ORD1213,Sneha Kapoor,sneha213@gmail.com,Mobile Phone,Electronics,2026-01-01,Credit Card,7021,Shipped,2026-01-03,Not Requested,Bangalore
+ORD1214,Arjun Mehta,arjun214@gmail.com,Kurti Set,Fashion,2026-01-08,COD,4776,Processing,2026-01-15,Pending Refund,Delhi
+ORD1215,Amit Singh,amit215@gmail.com,Running Shoes,Fashion,2026-01-26,Net Banking,1552,Delivered,2026-02-01,Pending Refund,Hyderabad
+ORD1216,Neha Gupta,neha216@gmail.com,Running Shoes,Fashion,2026-01-20,Credit Card,9092,Shipped,2026-01-25,Not Applicable,Jaipur
+ORD1217,Rahul Sharma,rahul217@gmail.com,Running Shoes,Fashion,2026-01-13,Credit Card,18174,Refund Initiated,N/A,Completed,Jaipur
+ORD1218,Arjun Mehta,arjun218@gmail.com,Kurti Set,Fashion,2026-01-26,Credit Card,12828,Delivered,2026-02-04,None,Delhi
+ORD1219,Priya Verma,priya219@gmail.com,Laptop Backpack,Accessories,2026-01-20,Net Banking,694,Processing,2026-01-27,Pending Refund,Bangalore
+ORD1220,Neha Gupta,neha220@gmail.com,Smart Watch,Electronics,2026-01-20,Debit Card,8748,Shipped,2026-01-25,None,Mumbai
+ORD1221,Rahul Sharma,rahul221@gmail.com,Mobile Phone,Electronics,2026-01-07,Debit Card,5092,Processing,2026-01-17,Pending Refund,Jaipur
+ORD1222,Rahul Sharma,rahul222@gmail.com,Kurti Set,Fashion,2026-02-07,COD,12482,Delivered,2026-02-13,Not Applicable,Chandigarh
+ORD1223,Neha Gupta,neha223@gmail.com,Bluetooth Speaker,Electronics,2026-01-22,Net Banking,6569,Cancelled,N/A,None,Hyderabad
+ORD1224,Karan Patel,karan224@gmail.com,Wireless Earbuds,Electronics,2026-01-04,UPI,14692,Refund Initiated,N/A,Not Applicable,Jaipur
+ORD1225,Arjun Mehta,arjun225@gmail.com,Wireless Earbuds,Electronics,2026-01-14,UPI,2287,Processing,2026-01-19,None,Delhi
+ORD1226,Sneha Kapoor,sneha226@gmail.com,Wireless Earbuds,Electronics,2026-01-25,COD,1938,Shipped,2026-02-04,Completed,Bangalore
+ORD1227,Rahul Sharma,rahul227@gmail.com,Smart Watch,Electronics,2026-01-03,Credit Card,9703,Cancelled,N/A,Completed,Jaipur
+ORD1228,Amit Singh,amit228@gmail.com,Mobile Phone,Electronics,2026-02-07,Debit Card,19403,Delivered,2026-02-17,Completed,Chandigarh
+ORD1229,Simran Kaur,simran229@gmail.com,Bluetooth Speaker,Electronics,2026-01-23,Credit Card,10356,Delivered,2026-02-02,Not Applicable,Mumbai
+ORD1230,Neha Gupta,neha230@gmail.com,Laptop Backpack,Accessories,2026-02-11,Net Banking,5532,Shipped,2026-02-13,None,Jaipur
+ORD1231,Rahul Sharma,rahul231@gmail.com,Wireless Earbuds,Electronics,2026-01-03,Credit Card,4802,Refund Initiated,N/A,Not Applicable,Hyderabad
+ORD1232,Neha Gupta,neha232@gmail.com,Wireless Earbuds,Electronics,2026-02-04,Net Banking,14599,Shipped,2026-02-13,Not Requested,Hyderabad
+ORD1233,Priya Verma,priya233@gmail.com,Laptop Backpack,Accessories,2026-02-06,Debit Card,3504,Refund Initiated,N/A,Not Applicable,Bangalore
+ORD1234,Arjun Mehta,arjun234@gmail.com,Smart Watch,Electronics,2026-01-28,Debit Card,3689,Processing,2026-02-05,Pending Refund,Bangalore
+ORD1235,Neha Gupta,neha235@gmail.com,Kurti Set,Fashion,2026-01-14,Credit Card,13989,Processing,2026-01-24,Not Applicable,Pune
+ORD1236,Rahul Sharma,rahul236@gmail.com,Mobile Phone,Electronics,2026-01-11,Net Banking,4694,Delivered,2026-01-13,Pending Refund,Chandigarh
+ORD1237,Neha Gupta,neha237@gmail.com,Wireless Earbuds,Electronics,2026-01-18,Credit Card,8598,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1238,Priya Verma,priya238@gmail.com,Mobile Phone,Electronics,2026-01-14,COD,4383,Cancelled,N/A,Not Requested,Pune
+ORD1239,Neha Gupta,neha239@gmail.com,Smart Watch,Electronics,2026-02-02,Credit Card,8000,Cancelled,N/A,Pending Refund,Hyderabad
+ORD1240,Priya Verma,priya240@gmail.com,Smart Watch,Electronics,2026-01-21,COD,9877,Processing,2026-01-27,Pending Refund,Mumbai
+ORD1241,Karan Patel,karan241@gmail.com,Laptop Backpack,Accessories,2026-01-04,Debit Card,15108,Shipped,2026-01-13,Pending Refund,Chandigarh
+ORD1242,Neha Gupta,neha242@gmail.com,Running Shoes,Fashion,2026-02-13,Net Banking,17862,Cancelled,N/A,Not Applicable,Jaipur
+ORD1243,Karan Patel,karan243@gmail.com,Wireless Earbuds,Electronics,2026-01-01,Net Banking,12484,Delivered,2026-01-11,Completed,Hyderabad
+ORD1244,Neha Gupta,neha244@gmail.com,Running Shoes,Fashion,2026-02-14,Credit Card,15027,Cancelled,N/A,None,Chandigarh
+ORD1245,Priya Verma,priya245@gmail.com,Laptop Backpack,Accessories,2026-01-28,Net Banking,9041,Processing,2026-01-31,None,Jaipur
+ORD1246,Karan Patel,karan246@gmail.com,Bluetooth Speaker,Electronics,2026-01-17,Credit Card,19486,Cancelled,N/A,Pending Refund,Mumbai
+ORD1247,Priya Verma,priya247@gmail.com,Running Shoes,Fashion,2026-01-31,Credit Card,6344,Shipped,2026-02-04,Pending Refund,Chandigarh
+ORD1248,Rahul Sharma,rahul248@gmail.com,Smart Watch,Electronics,2026-01-12,Credit Card,3315,Processing,2026-01-21,Not Requested,Hyderabad
+ORD1249,Neha Gupta,neha249@gmail.com,Gaming Mouse,Electronics,2026-01-26,COD,9750,Refund Initiated,N/A,None,Delhi
+ORD1250,Simran Kaur,simran250@gmail.com,Mobile Phone,Electronics,2026-01-17,Debit Card,8335,Shipped,2026-01-27,None,Bangalore
+ORD1251,Arjun Mehta,arjun251@gmail.com,Kurti Set,Fashion,2026-01-02,Net Banking,11874,Refund Initiated,N/A,Not Requested,Bangalore
+ORD1252,Simran Kaur,simran252@gmail.com,Laptop Backpack,Accessories,2026-01-05,Credit Card,5254,Delivered,2026-01-12,Not Requested,Pune
+ORD1253,Neha Gupta,neha253@gmail.com,Wireless Earbuds,Electronics,2026-02-13,Debit Card,7284,Processing,2026-02-20,Pending Refund,Chandigarh
+ORD1254,Karan Patel,karan254@gmail.com,Gaming Mouse,Electronics,2026-02-06,COD,15387,Processing,2026-02-10,Completed,Hyderabad
+ORD1255,Simran Kaur,simran255@gmail.com,Laptop Backpack,Accessories,2026-02-07,COD,3317,Processing,2026-02-16,Not Requested,Hyderabad
+ORD1256,Rahul Sharma,rahul256@gmail.com,Smart Watch,Electronics,2026-01-24,UPI,12307,Cancelled,N/A,Completed,Chandigarh
+ORD1257,Karan Patel,karan257@gmail.com,Kurti Set,Fashion,2026-01-03,Debit Card,19615,Shipped,2026-01-13,Not Requested,Jaipur
+ORD1258,Rahul Sharma,rahul258@gmail.com,Laptop Backpack,Accessories,2026-02-11,Net Banking,13689,Shipped,2026-02-16,Not Requested,Jaipur
+ORD1259,Sneha Kapoor,sneha259@gmail.com,Bluetooth Speaker,Electronics,2026-01-06,Debit Card,8063,Shipped,2026-01-10,None,Pune
+ORD1260,Rahul Sharma,rahul260@gmail.com,Mobile Phone,Electronics,2026-02-10,Debit Card,13996,Delivered,2026-02-13,None,Chandigarh
+ORD1261,Simran Kaur,simran261@gmail.com,Smart Watch,Electronics,2026-01-02,COD,17009,Refund Initiated,N/A,Not Applicable,Mumbai
+ORD1262,Rahul Sharma,rahul262@gmail.com,Laptop Backpack,Accessories,2026-02-03,UPI,14908,Cancelled,N/A,Pending Refund,Jaipur
+ORD1263,Karan Patel,karan263@gmail.com,Bluetooth Speaker,Electronics,2026-02-04,COD,4891,Cancelled,N/A,None,Mumbai
+ORD1264,Priya Verma,priya264@gmail.com,Gaming Mouse,Electronics,2026-01-08,Net Banking,1063,Shipped,2026-01-16,Not Applicable,Bangalore
+ORD1265,Rahul Sharma,rahul265@gmail.com,Kurti Set,Fashion,2026-01-31,COD,7499,Shipped,2026-02-03,Pending Refund,Bangalore
+ORD1266,Rahul Sharma,rahul266@gmail.com,Smart Watch,Electronics,2026-01-25,Debit Card,7583,Shipped,2026-02-01,Completed,Mumbai
+ORD1267,Karan Patel,karan267@gmail.com,Mobile Phone,Electronics,2026-01-26,UPI,16566,Refund Initiated,N/A,Not Applicable,Hyderabad
+ORD1268,Arjun Mehta,arjun268@gmail.com,Kurti Set,Fashion,2026-01-22,Net Banking,9538,Cancelled,N/A,Completed,Bangalore
+ORD1269,Sneha Kapoor,sneha269@gmail.com,Mobile Phone,Electronics,2026-01-18,UPI,4247,Processing,2026-01-22,Pending Refund,Kolkata
+ORD1270,Arjun Mehta,arjun270@gmail.com,Mobile Phone,Electronics,2026-01-07,COD,6322,Shipped,2026-01-10,Completed,Pune
+ORD1271,Priya Verma,priya271@gmail.com,Mobile Phone,Electronics,2026-01-18,Net Banking,16434,Processing,2026-01-28,Completed,Bangalore
+ORD1272,Arjun Mehta,arjun272@gmail.com,Wireless Earbuds,Electronics,2026-02-03,COD,7896,Processing,2026-02-07,None,Chandigarh
+ORD1273,Sneha Kapoor,sneha273@gmail.com,Laptop Backpack,Accessories,2026-01-28,Credit Card,5764,Refund Initiated,N/A,Pending Refund,Bangalore
+ORD1274,Rahul Sharma,rahul274@gmail.com,Gaming Mouse,Electronics,2026-01-25,UPI,15577,Processing,2026-02-03,Completed,Pune
+ORD1275,Simran Kaur,simran275@gmail.com,Running Shoes,Fashion,2026-01-31,UPI,6618,Refund Initiated,N/A,Completed,Delhi
+ORD1276,Rahul Sharma,rahul276@gmail.com,Smart Watch,Electronics,2026-01-11,UPI,7902,Cancelled,N/A,None,Kolkata
+ORD1277,Karan Patel,karan277@gmail.com,Smart Watch,Electronics,2026-01-09,Credit Card,11134,Refund Initiated,N/A,Pending Refund,Kolkata
+ORD1278,Simran Kaur,simran278@gmail.com,Bluetooth Speaker,Electronics,2026-01-19,UPI,12665,Refund Initiated,N/A,Pending Refund,Kolkata
+ORD1279,Sneha Kapoor,sneha279@gmail.com,Wireless Earbuds,Electronics,2026-01-15,Debit Card,611,Processing,2026-01-20,Completed,Delhi
+ORD1280,Neha Gupta,neha280@gmail.com,Smart Watch,Electronics,2026-01-31,UPI,10910,Processing,2026-02-09,Pending Refund,Hyderabad
+ORD1281,Sneha Kapoor,sneha281@gmail.com,Laptop Backpack,Accessories,2026-01-10,Net Banking,18039,Delivered,2026-01-12,Not Applicable,Bangalore
+ORD1282,Rahul Sharma,rahul282@gmail.com,Wireless Earbuds,Electronics,2026-02-01,COD,16572,Cancelled,N/A,Not Requested,Kolkata
+ORD1283,Karan Patel,karan283@gmail.com,Smart Watch,Electronics,2026-02-11,Credit Card,18655,Processing,2026-02-19,Completed,Jaipur
+ORD1284,Priya Verma,priya284@gmail.com,Kurti Set,Fashion,2026-01-25,Net Banking,16068,Delivered,2026-01-29,Not Requested,Delhi
+ORD1285,Sneha Kapoor,sneha285@gmail.com,Smart Watch,Electronics,2026-01-30,Debit Card,5356,Processing,2026-02-04,Not Requested,Kolkata
+ORD1286,Neha Gupta,neha286@gmail.com,Bluetooth Speaker,Electronics,2026-01-26,COD,896,Delivered,2026-01-30,Pending Refund,Kolkata
+ORD1287,Neha Gupta,neha287@gmail.com,Laptop Backpack,Accessories,2026-02-03,COD,14732,Shipped,2026-02-11,None,Bangalore
+ORD1288,Sneha Kapoor,sneha288@gmail.com,Kurti Set,Fashion,2026-01-25,UPI,17296,Delivered,2026-02-01,None,Jaipur
+ORD1289,Neha Gupta,neha289@gmail.com,Smart Watch,Electronics,2026-01-19,Net Banking,16638,Refund Initiated,N/A,None,Kolkata
+ORD1290,Arjun Mehta,arjun290@gmail.com,Mobile Phone,Electronics,2026-01-10,Net Banking,2298,Shipped,2026-01-17,Not Requested,Pune
+ORD1291,Neha Gupta,neha291@gmail.com,Smart Watch,Electronics,2026-01-02,Credit Card,6181,Shipped,2026-01-04,None,Pune
+ORD1292,Rahul Sharma,rahul292@gmail.com,Running Shoes,Fashion,2026-02-14,Net Banking,18349,Cancelled,N/A,Not Requested,Kolkata
+ORD1293,Amit Singh,amit293@gmail.com,Running Shoes,Fashion,2026-02-09,UPI,8142,Cancelled,N/A,Not Applicable,Mumbai
+ORD1294,Simran Kaur,simran294@gmail.com,Running Shoes,Fashion,2026-01-06,Debit Card,3420,Refund Initiated,N/A,Not Requested,Delhi
+ORD1295,Karan Patel,karan295@gmail.com,Wireless Earbuds,Electronics,2026-01-01,UPI,14506,Cancelled,N/A,Not Requested,Hyderabad
+ORD1296,Simran Kaur,simran296@gmail.com,Smart Watch,Electronics,2026-01-11,COD,3550,Cancelled,N/A,Not Requested,Hyderabad
+ORD1297,Arjun Mehta,arjun297@gmail.com,Smart Watch,Electronics,2026-01-08,Net Banking,14112,Processing,2026-01-11,Not Applicable,Bangalore
+ORD1298,Neha Gupta,neha298@gmail.com,Smart Watch,Electronics,2026-02-02,COD,6268,Cancelled,N/A,Completed,Mumbai
+ORD1299,Arjun Mehta,arjun299@gmail.com,Mobile Phone,Electronics,2026-01-23,UPI,3705,Delivered,2026-01-27,None,Bangalore
+ORD1300,Simran Kaur,simran300@gmail.com,Laptop Backpack,Accessories,2026-01-09,Debit Card,18970,Delivered,2026-01-12,Not Requested,Bangalore
+ORD1301,Priya Verma,priya301@gmail.com,Mobile Phone,Electronics,2026-01-22,COD,10674,Shipped,2026-02-01,Not Requested,Mumbai
+ORD1302,Simran Kaur,simran302@gmail.com,Laptop Backpack,Accessories,2026-02-08,Debit Card,18999,Processing,2026-02-18,Pending Refund,Bangalore
+ORD1303,Neha Gupta,neha303@gmail.com,Smart Watch,Electronics,2026-02-11,Net Banking,19172,Processing,2026-02-16,Completed,Chandigarh
+ORD1304,Karan Patel,karan304@gmail.com,Mobile Phone,Electronics,2026-01-21,Net Banking,3364,Delivered,2026-01-31,Pending Refund,Delhi
+ORD1305,Simran Kaur,simran305@gmail.com,Laptop Backpack,Accessories,2026-01-04,Debit Card,13375,Refund Initiated,N/A,Not Requested,Jaipur
+ORD1306,Sneha Kapoor,sneha306@gmail.com,Wireless Earbuds,Electronics,2026-01-06,UPI,14629,Refund Initiated,N/A,Completed,Bangalore
+ORD1307,Simran Kaur,simran307@gmail.com,Mobile Phone,Electronics,2026-02-09,COD,13702,Processing,2026-02-12,Pending Refund,Chandigarh
+ORD1308,Arjun Mehta,arjun308@gmail.com,Kurti Set,Fashion,2026-01-29,Credit Card,16968,Delivered,2026-02-02,Completed,Delhi
+ORD1309,Rahul Sharma,rahul309@gmail.com,Mobile Phone,Electronics,2026-01-22,UPI,12296,Cancelled,N/A,Completed,Pune
+ORD1310,Rahul Sharma,rahul310@gmail.com,Kurti Set,Fashion,2026-01-24,Net Banking,7995,Shipped,2026-01-29,Completed,Pune
+ORD1311,Amit Singh,amit311@gmail.com,Wireless Earbuds,Electronics,2026-01-09,Debit Card,9858,Delivered,2026-01-17,Completed,Bangalore
+ORD1312,Karan Patel,karan312@gmail.com,Kurti Set,Fashion,2026-01-24,Net Banking,4287,Delivered,2026-02-01,Completed,Bangalore
+ORD1313,Sneha Kapoor,sneha313@gmail.com,Kurti Set,Fashion,2026-02-01,Net Banking,559,Refund Initiated,N/A,Not Requested,Chandigarh
+ORD1314,Priya Verma,priya314@gmail.com,Mobile Phone,Electronics,2026-01-19,COD,17214,Refund Initiated,N/A,Not Requested,Chandigarh
+ORD1315,Amit Singh,amit315@gmail.com,Mobile Phone,Electronics,2026-01-09,COD,18405,Delivered,2026-01-11,Not Requested,Mumbai
+ORD1316,Karan Patel,karan316@gmail.com,Running Shoes,Fashion,2026-01-23,COD,3633,Processing,2026-02-02,Not Requested,Mumbai
+ORD1317,Amit Singh,amit317@gmail.com,Mobile Phone,Electronics,2026-01-29,UPI,7034,Processing,2026-02-01,None,Chandigarh
+ORD1318,Priya Verma,priya318@gmail.com,Running Shoes,Fashion,2026-02-05,COD,6564,Processing,2026-02-09,Completed,Bangalore
+ORD1319,Priya Verma,priya319@gmail.com,Mobile Phone,Electronics,2026-01-11,Debit Card,3043,Shipped,2026-01-17,Not Applicable,Mumbai
+ORD1320,Sneha Kapoor,sneha320@gmail.com,Mobile Phone,Electronics,2026-01-02,Net Banking,17644,Delivered,2026-01-08,Not Requested,Bangalore
+ORD1321,Neha Gupta,neha321@gmail.com,Laptop Backpack,Accessories,2026-02-09,COD,18921,Processing,2026-02-14,Completed,Chandigarh
+ORD1322,Sneha Kapoor,sneha322@gmail.com,Laptop Backpack,Accessories,2026-01-28,UPI,18467,Cancelled,N/A,None,Pune
+ORD1323,Rahul Sharma,rahul323@gmail.com,Running Shoes,Fashion,2026-01-02,Net Banking,10063,Cancelled,N/A,Pending Refund,Mumbai
+ORD1324,Amit Singh,amit324@gmail.com,Gaming Mouse,Electronics,2026-02-05,Net Banking,9953,Shipped,2026-02-12,Not Applicable,Bangalore
+ORD1325,Priya Verma,priya325@gmail.com,Bluetooth Speaker,Electronics,2026-01-08,UPI,4551,Cancelled,N/A,Not Applicable,Hyderabad
+ORD1326,Neha Gupta,neha326@gmail.com,Laptop Backpack,Accessories,2026-01-03,Debit Card,7477,Delivered,2026-01-08,Completed,Kolkata
+ORD1327,Neha Gupta,neha327@gmail.com,Bluetooth Speaker,Electronics,2026-02-14,UPI,15491,Delivered,2026-02-19,Not Applicable,Kolkata
+ORD1328,Neha Gupta,neha328@gmail.com,Kurti Set,Fashion,2026-02-07,Credit Card,13806,Processing,2026-02-15,Completed,Delhi
+ORD1329,Karan Patel,karan329@gmail.com,Kurti Set,Fashion,2026-02-02,Debit Card,5109,Shipped,2026-02-06,Not Requested,Jaipur
+ORD1330,Simran Kaur,simran330@gmail.com,Mobile Phone,Electronics,2026-02-06,COD,6515,Refund Initiated,N/A,Not Applicable,Jaipur
+ORD1331,Neha Gupta,neha331@gmail.com,Running Shoes,Fashion,2026-01-06,Credit Card,2555,Cancelled,N/A,Not Requested,Pune
+ORD1332,Neha Gupta,neha332@gmail.com,Running Shoes,Fashion,2026-01-12,Net Banking,11734,Refund Initiated,N/A,Completed,Kolkata
+ORD1333,Simran Kaur,simran333@gmail.com,Mobile Phone,Electronics,2026-01-03,Debit Card,17743,Shipped,2026-01-05,Pending Refund,Jaipur
+ORD1334,Amit Singh,amit334@gmail.com,Smart Watch,Electronics,2026-01-06,Credit Card,6743,Delivered,2026-01-10,Not Applicable,Jaipur
+ORD1335,Karan Patel,karan335@gmail.com,Gaming Mouse,Electronics,2026-01-27,Debit Card,1376,Refund Initiated,N/A,Completed,Chandigarh
+ORD1336,Neha Gupta,neha336@gmail.com,Gaming Mouse,Electronics,2026-01-27,Net Banking,18862,Shipped,2026-02-04,Not Requested,Delhi
+ORD1337,Arjun Mehta,arjun337@gmail.com,Kurti Set,Fashion,2026-01-05,Debit Card,17729,Delivered,2026-01-15,None,Pune
+ORD1338,Rahul Sharma,rahul338@gmail.com,Laptop Backpack,Accessories,2026-01-26,Debit Card,6833,Processing,2026-02-03,Completed,Chandigarh
+ORD1339,Rahul Sharma,rahul339@gmail.com,Smart Watch,Electronics,2026-01-25,Debit Card,9472,Shipped,2026-02-01,Not Requested,Delhi
+ORD1340,Karan Patel,karan340@gmail.com,Laptop Backpack,Accessories,2026-01-02,Net Banking,18940,Delivered,2026-01-11,Completed,Jaipur
+ORD1341,Arjun Mehta,arjun341@gmail.com,Smart Watch,Electronics,2026-01-31,Credit Card,3177,Cancelled,N/A,Completed,Hyderabad
+ORD1342,Rahul Sharma,rahul342@gmail.com,Gaming Mouse,Electronics,2026-01-17,COD,9315,Cancelled,N/A,Pending Refund,Kolkata
+ORD1343,Karan Patel,karan343@gmail.com,Laptop Backpack,Accessories,2026-01-14,Credit Card,729,Shipped,2026-01-24,Completed,Hyderabad
+ORD1344,Sneha Kapoor,sneha344@gmail.com,Kurti Set,Fashion,2026-02-05,COD,9660,Processing,2026-02-07,Completed,Jaipur
+ORD1345,Arjun Mehta,arjun345@gmail.com,Running Shoes,Fashion,2026-02-05,Credit Card,12082,Delivered,2026-02-09,Completed,Mumbai
+ORD1346,Amit Singh,amit346@gmail.com,Running Shoes,Fashion,2026-01-03,Net Banking,14311,Delivered,2026-01-10,Not Requested,Delhi
+ORD1347,Priya Verma,priya347@gmail.com,Wireless Earbuds,Electronics,2026-01-09,Net Banking,11259,Cancelled,N/A,Completed,Hyderabad
+ORD1348,Priya Verma,priya348@gmail.com,Mobile Phone,Electronics,2026-01-20,UPI,6277,Shipped,2026-01-29,Pending Refund,Pune
+ORD1349,Rahul Sharma,rahul349@gmail.com,Kurti Set,Fashion,2026-02-10,UPI,16421,Refund Initiated,N/A,None,Chandigarh
+ORD1350,Karan Patel,karan350@gmail.com,Running Shoes,Fashion,2026-01-15,COD,4333,Shipped,2026-01-21,Not Applicable,Kolkata
+ORD1351,Rahul Sharma,rahul351@gmail.com,Gaming Mouse,Electronics,2026-01-05,UPI,11908,Delivered,2026-01-13,None,Kolkata
+ORD1352,Simran Kaur,simran352@gmail.com,Laptop Backpack,Accessories,2026-01-03,Credit Card,1284,Processing,2026-01-10,Not Applicable,Kolkata
+ORD1353,Arjun Mehta,arjun353@gmail.com,Kurti Set,Fashion,2026-02-14,Net Banking,3079,Shipped,2026-02-24,Not Applicable,Jaipur
+ORD1354,Priya Verma,priya354@gmail.com,Running Shoes,Fashion,2026-01-10,UPI,17236,Shipped,2026-01-16,Completed,Jaipur
+ORD1355,Arjun Mehta,arjun355@gmail.com,Laptop Backpack,Accessories,2026-01-27,Debit Card,8749,Shipped,2026-02-01,None,Jaipur
+ORD1356,Arjun Mehta,arjun356@gmail.com,Smart Watch,Electronics,2026-01-16,UPI,7088,Refund Initiated,N/A,Not Requested,Kolkata
+ORD1357,Arjun Mehta,arjun357@gmail.com,Bluetooth Speaker,Electronics,2026-02-04,Debit Card,10217,Processing,2026-02-11,Pending Refund,Jaipur
+ORD1358,Simran Kaur,simran358@gmail.com,Running Shoes,Fashion,2026-01-14,Net Banking,1525,Processing,2026-01-16,None,Kolkata
+ORD1359,Simran Kaur,simran359@gmail.com,Mobile Phone,Electronics,2026-02-04,Net Banking,13179,Shipped,2026-02-13,None,Delhi
+ORD1360,Priya Verma,priya360@gmail.com,Kurti Set,Fashion,2026-01-05,Debit Card,19133,Cancelled,N/A,None,Delhi
+ORD1361,Neha Gupta,neha361@gmail.com,Kurti Set,Fashion,2026-01-12,UPI,14417,Processing,2026-01-19,Not Applicable,Bangalore
+ORD1362,Arjun Mehta,arjun362@gmail.com,Bluetooth Speaker,Electronics,2026-01-21,COD,4220,Refund Initiated,N/A,Pending Refund,Jaipur
+ORD1363,Arjun Mehta,arjun363@gmail.com,Wireless Earbuds,Electronics,2026-01-19,Credit Card,15684,Processing,2026-01-24,Not Requested,Kolkata
+ORD1364,Arjun Mehta,arjun364@gmail.com,Smart Watch,Electronics,2026-01-30,Debit Card,1043,Cancelled,N/A,Not Requested,Delhi
+ORD1365,Simran Kaur,simran365@gmail.com,Mobile Phone,Electronics,2026-01-25,Debit Card,8759,Refund Initiated,N/A,None,Delhi
+ORD1366,Neha Gupta,neha366@gmail.com,Kurti Set,Fashion,2026-02-06,UPI,13793,Cancelled,N/A,Completed,Bangalore
+ORD1367,Priya Verma,priya367@gmail.com,Kurti Set,Fashion,2026-02-06,Net Banking,5846,Delivered,2026-02-10,None,Delhi
+ORD1368,Neha Gupta,neha368@gmail.com,Bluetooth Speaker,Electronics,2026-01-10,COD,13643,Delivered,2026-01-20,Completed,Chandigarh
+ORD1369,Simran Kaur,simran369@gmail.com,Smart Watch,Electronics,2026-01-20,Debit Card,6045,Refund Initiated,N/A,Not Applicable,Bangalore
+ORD1370,Neha Gupta,neha370@gmail.com,Wireless Earbuds,Electronics,2026-01-29,Credit Card,12352,Processing,2026-02-05,Not Applicable,Chandigarh
+ORD1371,Karan Patel,karan371@gmail.com,Gaming Mouse,Electronics,2026-01-23,Credit Card,3631,Delivered,2026-01-31,None,Chandigarh
+ORD1372,Simran Kaur,simran372@gmail.com,Wireless Earbuds,Electronics,2026-01-16,Net Banking,4531,Processing,2026-01-26,None,Delhi
+ORD1373,Simran Kaur,simran373@gmail.com,Laptop Backpack,Accessories,2026-01-02,Credit Card,16374,Delivered,2026-01-05,Completed,Delhi
+ORD1374,Simran Kaur,simran374@gmail.com,Bluetooth Speaker,Electronics,2026-02-08,Debit Card,14051,Delivered,2026-02-15,Pending Refund,Hyderabad
+ORD1375,Arjun Mehta,arjun375@gmail.com,Laptop Backpack,Accessories,2026-02-09,Credit Card,15663,Delivered,2026-02-15,Completed,Kolkata
+ORD1376,Simran Kaur,simran376@gmail.com,Wireless Earbuds,Electronics,2026-01-21,UPI,16554,Cancelled,N/A,Not Applicable,Pune
+ORD1377,Arjun Mehta,arjun377@gmail.com,Wireless Earbuds,Electronics,2026-01-20,Debit Card,14673,Refund Initiated,N/A,Pending Refund,Hyderabad
+ORD1378,Arjun Mehta,arjun378@gmail.com,Laptop Backpack,Accessories,2026-01-23,Credit Card,13429,Shipped,2026-02-01,Pending Refund,Bangalore
+ORD1379,Sneha Kapoor,sneha379@gmail.com,Laptop Backpack,Accessories,2026-01-10,Debit Card,7975,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1380,Priya Verma,priya380@gmail.com,Smart Watch,Electronics,2026-01-18,Credit Card,15030,Cancelled,N/A,Pending Refund,Delhi
+ORD1381,Rahul Sharma,rahul381@gmail.com,Laptop Backpack,Accessories,2026-01-24,UPI,6677,Delivered,2026-01-27,Not Applicable,Jaipur
+ORD1382,Karan Patel,karan382@gmail.com,Smart Watch,Electronics,2026-01-02,Debit Card,9007,Processing,2026-01-10,Completed,Pune
+ORD1383,Simran Kaur,simran383@gmail.com,Running Shoes,Fashion,2026-02-12,COD,12035,Cancelled,N/A,Not Applicable,Delhi
+ORD1384,Priya Verma,priya384@gmail.com,Wireless Earbuds,Electronics,2026-02-14,UPI,10102,Refund Initiated,N/A,Not Requested,Chandigarh
+ORD1385,Simran Kaur,simran385@gmail.com,Kurti Set,Fashion,2026-01-02,UPI,9972,Delivered,2026-01-08,Completed,Bangalore
+ORD1386,Neha Gupta,neha386@gmail.com,Smart Watch,Electronics,2026-01-29,UPI,2160,Delivered,2026-02-02,Pending Refund,Jaipur
+ORD1387,Simran Kaur,simran387@gmail.com,Kurti Set,Fashion,2026-02-14,Debit Card,8931,Processing,2026-02-17,Not Applicable,Delhi
+ORD1388,Arjun Mehta,arjun388@gmail.com,Wireless Earbuds,Electronics,2026-01-07,Net Banking,4199,Shipped,2026-01-12,Not Requested,Delhi
+ORD1389,Rahul Sharma,rahul389@gmail.com,Bluetooth Speaker,Electronics,2026-02-02,Net Banking,12793,Refund Initiated,N/A,Pending Refund,Pune
+ORD1390,Rahul Sharma,rahul390@gmail.com,Laptop Backpack,Accessories,2026-01-14,Credit Card,1410,Delivered,2026-01-17,Pending Refund,Bangalore
+ORD1391,Neha Gupta,neha391@gmail.com,Wireless Earbuds,Electronics,2026-01-29,COD,7555,Shipped,2026-02-05,Pending Refund,Chandigarh
+ORD1392,Neha Gupta,neha392@gmail.com,Bluetooth Speaker,Electronics,2026-01-14,Credit Card,19558,Processing,2026-01-16,Completed,Jaipur
+ORD1393,Amit Singh,amit393@gmail.com,Mobile Phone,Electronics,2026-01-06,Credit Card,7304,Cancelled,N/A,None,Hyderabad
+ORD1394,Rahul Sharma,rahul394@gmail.com,Laptop Backpack,Accessories,2026-01-03,Credit Card,12148,Refund Initiated,N/A,Not Applicable,Mumbai
+ORD1395,Karan Patel,karan395@gmail.com,Gaming Mouse,Electronics,2026-02-02,COD,598,Processing,2026-02-06,None,Jaipur
+ORD1396,Simran Kaur,simran396@gmail.com,Wireless Earbuds,Electronics,2026-02-10,COD,5961,Delivered,2026-02-20,Not Applicable,Pune
+ORD1397,Sneha Kapoor,sneha397@gmail.com,Smart Watch,Electronics,2026-01-28,COD,19619,Shipped,2026-02-05,Completed,Bangalore
+ORD1398,Rahul Sharma,rahul398@gmail.com,Mobile Phone,Electronics,2026-01-08,UPI,13896,Processing,2026-01-16,Pending Refund,Mumbai
+ORD1399,Rahul Sharma,rahul399@gmail.com,Smart Watch,Electronics,2026-01-15,Net Banking,9294,Shipped,2026-01-23,Not Applicable,Chandigarh
+ORD1400,Priya Verma,priya400@gmail.com,Running Shoes,Fashion,2026-01-24,Debit Card,12261,Delivered,2026-02-03,None,Bangalore
+ORD1401,Sneha Kapoor,sneha401@gmail.com,Bluetooth Speaker,Electronics,2026-01-29,Debit Card,2880,Processing,2026-02-06,Completed,Delhi
+ORD1402,Priya Verma,priya402@gmail.com,Gaming Mouse,Electronics,2026-01-14,COD,17843,Shipped,2026-01-16,Not Requested,Jaipur
+ORD1403,Amit Singh,amit403@gmail.com,Gaming Mouse,Electronics,2026-02-09,COD,19984,Shipped,2026-02-13,None,Jaipur
+ORD1404,Priya Verma,priya404@gmail.com,Bluetooth Speaker,Electronics,2026-01-14,UPI,5952,Delivered,2026-01-18,None,Delhi
+ORD1405,Arjun Mehta,arjun405@gmail.com,Smart Watch,Electronics,2026-01-09,UPI,11551,Refund Initiated,N/A,Not Requested,Kolkata
+ORD1406,Neha Gupta,neha406@gmail.com,Bluetooth Speaker,Electronics,2026-01-27,Credit Card,2314,Shipped,2026-02-06,None,Pune
+ORD1407,Arjun Mehta,arjun407@gmail.com,Kurti Set,Fashion,2026-02-13,Net Banking,6462,Cancelled,N/A,Not Applicable,Jaipur
+ORD1408,Sneha Kapoor,sneha408@gmail.com,Gaming Mouse,Electronics,2026-01-05,Debit Card,5680,Delivered,2026-01-13,Not Applicable,Jaipur
+ORD1409,Amit Singh,amit409@gmail.com,Bluetooth Speaker,Electronics,2026-01-26,Debit Card,11458,Processing,2026-02-03,Not Applicable,Delhi
+ORD1410,Rahul Sharma,rahul410@gmail.com,Mobile Phone,Electronics,2026-01-30,COD,11482,Shipped,2026-02-09,Completed,Hyderabad
+ORD1411,Neha Gupta,neha411@gmail.com,Mobile Phone,Electronics,2026-01-13,Debit Card,8244,Delivered,2026-01-22,Completed,Delhi
+ORD1412,Neha Gupta,neha412@gmail.com,Smart Watch,Electronics,2026-02-02,COD,6965,Delivered,2026-02-07,Not Applicable,Chandigarh
+ORD1413,Arjun Mehta,arjun413@gmail.com,Running Shoes,Fashion,2026-02-01,COD,11838,Delivered,2026-02-08,Not Applicable,Jaipur
+ORD1414,Sneha Kapoor,sneha414@gmail.com,Kurti Set,Fashion,2026-01-20,COD,13230,Delivered,2026-01-30,None,Delhi
+ORD1415,Karan Patel,karan415@gmail.com,Laptop Backpack,Accessories,2026-01-13,COD,14019,Shipped,2026-01-20,Not Requested,Bangalore
+ORD1416,Rahul Sharma,rahul416@gmail.com,Bluetooth Speaker,Electronics,2026-01-13,Credit Card,2839,Refund Initiated,N/A,Not Requested,Mumbai
+ORD1417,Priya Verma,priya417@gmail.com,Laptop Backpack,Accessories,2026-01-30,Net Banking,7916,Shipped,2026-02-09,Completed,Bangalore
+ORD1418,Sneha Kapoor,sneha418@gmail.com,Smart Watch,Electronics,2026-01-03,Credit Card,3214,Refund Initiated,N/A,Not Requested,Kolkata
+ORD1419,Priya Verma,priya419@gmail.com,Laptop Backpack,Accessories,2026-02-04,COD,16012,Refund Initiated,N/A,Not Requested,Delhi
+ORD1420,Priya Verma,priya420@gmail.com,Wireless Earbuds,Electronics,2026-01-08,COD,10682,Cancelled,N/A,None,Mumbai
+ORD1421,Karan Patel,karan421@gmail.com,Smart Watch,Electronics,2026-01-31,Debit Card,10764,Refund Initiated,N/A,Not Applicable,Pune
+ORD1422,Sneha Kapoor,sneha422@gmail.com,Kurti Set,Fashion,2026-02-12,Net Banking,7520,Shipped,2026-02-14,Completed,Hyderabad
+ORD1423,Arjun Mehta,arjun423@gmail.com,Wireless Earbuds,Electronics,2026-01-05,Credit Card,8638,Shipped,2026-01-08,Completed,Pune
+ORD1424,Karan Patel,karan424@gmail.com,Smart Watch,Electronics,2026-02-12,Net Banking,18901,Refund Initiated,N/A,Pending Refund,Delhi
+ORD1425,Arjun Mehta,arjun425@gmail.com,Mobile Phone,Electronics,2026-02-06,Net Banking,5707,Shipped,2026-02-10,Completed,Mumbai
+ORD1426,Neha Gupta,neha426@gmail.com,Wireless Earbuds,Electronics,2026-02-03,Credit Card,6546,Cancelled,N/A,Completed,Mumbai
+ORD1427,Amit Singh,amit427@gmail.com,Mobile Phone,Electronics,2026-01-06,Debit Card,19164,Delivered,2026-01-12,Not Applicable,Bangalore
+ORD1428,Rahul Sharma,rahul428@gmail.com,Smart Watch,Electronics,2026-01-20,Credit Card,7811,Cancelled,N/A,Completed,Mumbai
+ORD1429,Priya Verma,priya429@gmail.com,Running Shoes,Fashion,2026-02-04,UPI,14800,Refund Initiated,N/A,Not Applicable,Chandigarh
+ORD1430,Neha Gupta,neha430@gmail.com,Kurti Set,Fashion,2026-01-28,Credit Card,3122,Refund Initiated,N/A,None,Pune
+ORD1431,Simran Kaur,simran431@gmail.com,Kurti Set,Fashion,2026-01-19,Credit Card,8970,Cancelled,N/A,Not Requested,Bangalore
+ORD1432,Neha Gupta,neha432@gmail.com,Wireless Earbuds,Electronics,2026-01-27,COD,14936,Delivered,2026-01-30,Not Requested,Bangalore
+ORD1433,Arjun Mehta,arjun433@gmail.com,Running Shoes,Fashion,2026-01-17,Debit Card,14146,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1434,Sneha Kapoor,sneha434@gmail.com,Smart Watch,Electronics,2026-01-11,Net Banking,12053,Refund Initiated,N/A,Not Applicable,Mumbai
+ORD1435,Karan Patel,karan435@gmail.com,Running Shoes,Fashion,2026-01-12,UPI,16033,Refund Initiated,N/A,Pending Refund,Delhi
+ORD1436,Arjun Mehta,arjun436@gmail.com,Laptop Backpack,Accessories,2026-01-21,Debit Card,4209,Delivered,2026-01-25,None,Delhi
+ORD1437,Simran Kaur,simran437@gmail.com,Kurti Set,Fashion,2026-01-17,Net Banking,15131,Cancelled,N/A,Pending Refund,Mumbai
+ORD1438,Priya Verma,priya438@gmail.com,Bluetooth Speaker,Electronics,2026-02-13,COD,6421,Cancelled,N/A,Not Requested,Mumbai
+ORD1439,Amit Singh,amit439@gmail.com,Laptop Backpack,Accessories,2026-02-03,Credit Card,17793,Shipped,2026-02-06,Completed,Pune
+ORD1440,Priya Verma,priya440@gmail.com,Laptop Backpack,Accessories,2026-01-27,UPI,8512,Processing,2026-02-02,Not Applicable,Chandigarh
+ORD1441,Neha Gupta,neha441@gmail.com,Bluetooth Speaker,Electronics,2026-01-04,UPI,19837,Processing,2026-01-10,None,Mumbai
+ORD1442,Rahul Sharma,rahul442@gmail.com,Wireless Earbuds,Electronics,2026-01-09,Debit Card,9593,Cancelled,N/A,Completed,Chandigarh
+ORD1443,Arjun Mehta,arjun443@gmail.com,Laptop Backpack,Accessories,2026-02-01,COD,12217,Cancelled,N/A,None,Jaipur
+ORD1444,Simran Kaur,simran444@gmail.com,Bluetooth Speaker,Electronics,2026-01-12,Credit Card,8856,Cancelled,N/A,Pending Refund,Bangalore
+ORD1445,Amit Singh,amit445@gmail.com,Running Shoes,Fashion,2026-01-13,Debit Card,17228,Processing,2026-01-18,Pending Refund,Pune
+ORD1446,Neha Gupta,neha446@gmail.com,Mobile Phone,Electronics,2026-01-04,Debit Card,2118,Delivered,2026-01-14,Not Applicable,Mumbai
+ORD1447,Sneha Kapoor,sneha447@gmail.com,Smart Watch,Electronics,2026-02-15,Credit Card,10827,Refund Initiated,N/A,Not Requested,Bangalore
+ORD1448,Simran Kaur,simran448@gmail.com,Wireless Earbuds,Electronics,2026-01-05,Net Banking,1901,Delivered,2026-01-11,Not Requested,Pune
+ORD1449,Sneha Kapoor,sneha449@gmail.com,Gaming Mouse,Electronics,2026-01-17,UPI,14529,Cancelled,N/A,Not Requested,Hyderabad
+ORD1450,Sneha Kapoor,sneha450@gmail.com,Laptop Backpack,Accessories,2026-01-14,Net Banking,8230,Delivered,2026-01-24,Not Applicable,Chandigarh
+ORD1451,Rahul Sharma,rahul451@gmail.com,Wireless Earbuds,Electronics,2026-02-04,Credit Card,11394,Cancelled,N/A,Completed,Mumbai
+ORD1452,Amit Singh,amit452@gmail.com,Wireless Earbuds,Electronics,2026-01-18,COD,10798,Shipped,2026-01-27,Not Requested,Hyderabad
+ORD1453,Simran Kaur,simran453@gmail.com,Running Shoes,Fashion,2026-01-26,Net Banking,4974,Cancelled,N/A,Completed,Kolkata
+ORD1454,Karan Patel,karan454@gmail.com,Mobile Phone,Electronics,2026-01-22,Net Banking,12232,Shipped,2026-01-29,Not Applicable,Chandigarh
+ORD1455,Neha Gupta,neha455@gmail.com,Laptop Backpack,Accessories,2026-01-30,Net Banking,12712,Refund Initiated,N/A,Not Applicable,Delhi
+ORD1456,Arjun Mehta,arjun456@gmail.com,Laptop Backpack,Accessories,2026-01-11,COD,3800,Cancelled,N/A,Completed,Kolkata
+ORD1457,Rahul Sharma,rahul457@gmail.com,Mobile Phone,Electronics,2026-01-25,Credit Card,13241,Shipped,2026-02-04,Pending Refund,Delhi
+ORD1458,Priya Verma,priya458@gmail.com,Bluetooth Speaker,Electronics,2026-01-05,Credit Card,7351,Shipped,2026-01-10,Not Applicable,Jaipur
+ORD1459,Neha Gupta,neha459@gmail.com,Wireless Earbuds,Electronics,2026-01-04,Net Banking,15856,Delivered,2026-01-14,Completed,Mumbai
+ORD1460,Amit Singh,amit460@gmail.com,Gaming Mouse,Electronics,2026-02-15,UPI,19471,Cancelled,N/A,Pending Refund,Chandigarh
+ORD1461,Arjun Mehta,arjun461@gmail.com,Wireless Earbuds,Electronics,2026-02-15,COD,4662,Delivered,2026-02-17,Pending Refund,Bangalore
+ORD1462,Karan Patel,karan462@gmail.com,Laptop Backpack,Accessories,2026-02-13,UPI,3734,Processing,2026-02-16,Not Requested,Bangalore
+ORD1463,Sneha Kapoor,sneha463@gmail.com,Mobile Phone,Electronics,2026-02-12,UPI,7001,Refund Initiated,N/A,None,Bangalore
+ORD1464,Rahul Sharma,rahul464@gmail.com,Bluetooth Speaker,Electronics,2026-01-06,Debit Card,1234,Shipped,2026-01-11,Not Applicable,Jaipur
+ORD1465,Simran Kaur,simran465@gmail.com,Kurti Set,Fashion,2026-01-18,Credit Card,16224,Shipped,2026-01-22,Not Requested,Jaipur
+ORD1466,Neha Gupta,neha466@gmail.com,Bluetooth Speaker,Electronics,2026-02-06,UPI,16503,Processing,2026-02-15,None,Jaipur
+ORD1467,Simran Kaur,simran467@gmail.com,Wireless Earbuds,Electronics,2026-02-15,Debit Card,15160,Delivered,2026-02-19,Not Applicable,Jaipur
+ORD1468,Amit Singh,amit468@gmail.com,Kurti Set,Fashion,2026-01-12,Net Banking,6140,Shipped,2026-01-22,Not Applicable,Delhi
+ORD1469,Karan Patel,karan469@gmail.com,Gaming Mouse,Electronics,2026-02-14,COD,9641,Shipped,2026-02-24,None,Kolkata
+ORD1470,Arjun Mehta,arjun470@gmail.com,Gaming Mouse,Electronics,2026-01-01,UPI,12932,Delivered,2026-01-03,Pending Refund,Pune
+ORD1471,Rahul Sharma,rahul471@gmail.com,Running Shoes,Fashion,2026-01-11,Debit Card,16313,Shipped,2026-01-17,Completed,Delhi
+ORD1472,Neha Gupta,neha472@gmail.com,Bluetooth Speaker,Electronics,2026-02-11,COD,14222,Processing,2026-02-15,None,Kolkata
+ORD1473,Priya Verma,priya473@gmail.com,Bluetooth Speaker,Electronics,2026-01-25,COD,19883,Refund Initiated,N/A,Not Applicable,Jaipur
+ORD1474,Sneha Kapoor,sneha474@gmail.com,Gaming Mouse,Electronics,2026-02-05,Debit Card,1373,Cancelled,N/A,Not Applicable,Kolkata
+ORD1475,Karan Patel,karan475@gmail.com,Laptop Backpack,Accessories,2026-02-11,Credit Card,7285,Shipped,2026-02-13,Completed,Kolkata
+ORD1476,Simran Kaur,simran476@gmail.com,Kurti Set,Fashion,2026-01-23,Net Banking,1091,Cancelled,N/A,None,Bangalore
+ORD1477,Amit Singh,amit477@gmail.com,Kurti Set,Fashion,2026-02-07,UPI,13233,Shipped,2026-02-11,None,Chandigarh
+ORD1478,Sneha Kapoor,sneha478@gmail.com,Bluetooth Speaker,Electronics,2026-02-14,UPI,3793,Delivered,2026-02-22,Not Requested,Jaipur
+ORD1479,Priya Verma,priya479@gmail.com,Bluetooth Speaker,Electronics,2026-01-06,COD,12629,Cancelled,N/A,Not Requested,Kolkata
+ORD1480,Arjun Mehta,arjun480@gmail.com,Smart Watch,Electronics,2026-02-08,COD,4398,Refund Initiated,N/A,Not Applicable,Jaipur
+ORD1481,Priya Verma,priya481@gmail.com,Mobile Phone,Electronics,2026-01-20,Net Banking,12621,Refund Initiated,N/A,None,Jaipur
+ORD1482,Sneha Kapoor,sneha482@gmail.com,Smart Watch,Electronics,2026-01-20,Credit Card,1712,Processing,2026-01-30,Not Applicable,Kolkata
+ORD1483,Sneha Kapoor,sneha483@gmail.com,Bluetooth Speaker,Electronics,2026-01-18,Credit Card,7445,Shipped,2026-01-27,Completed,Chandigarh
+ORD1484,Arjun Mehta,arjun484@gmail.com,Bluetooth Speaker,Electronics,2026-01-07,Credit Card,14054,Cancelled,N/A,Not Requested,Mumbai
+ORD1485,Karan Patel,karan485@gmail.com,Laptop Backpack,Accessories,2026-01-14,UPI,10935,Shipped,2026-01-23,None,Mumbai
+ORD1486,Sneha Kapoor,sneha486@gmail.com,Laptop Backpack,Accessories,2026-01-07,UPI,16365,Processing,2026-01-16,Not Requested,Mumbai
+ORD1487,Karan Patel,karan487@gmail.com,Laptop Backpack,Accessories,2026-01-18,UPI,3182,Cancelled,N/A,Not Requested,Jaipur
+ORD1488,Karan Patel,karan488@gmail.com,Laptop Backpack,Accessories,2026-02-04,Debit Card,15298,Shipped,2026-02-08,Completed,Kolkata
+ORD1489,Neha Gupta,neha489@gmail.com,Smart Watch,Electronics,2026-01-28,Credit Card,8482,Processing,2026-02-05,Not Applicable,Hyderabad
+ORD1490,Karan Patel,karan490@gmail.com,Wireless Earbuds,Electronics,2026-01-21,Credit Card,1899,Cancelled,N/A,Not Requested,Hyderabad
+ORD1491,Neha Gupta,neha491@gmail.com,Bluetooth Speaker,Electronics,2026-01-11,Credit Card,6688,Delivered,2026-01-21,Completed,Kolkata
+ORD1492,Neha Gupta,neha492@gmail.com,Bluetooth Speaker,Electronics,2026-01-14,Credit Card,4948,Delivered,2026-01-16,Completed,Bangalore
+ORD1493,Sneha Kapoor,sneha493@gmail.com,Running Shoes,Fashion,2026-01-14,Debit Card,6804,Refund Initiated,N/A,Pending Refund,Chandigarh
+ORD1494,Karan Patel,karan494@gmail.com,Smart Watch,Electronics,2026-01-19,Net Banking,11204,Refund Initiated,N/A,None,Pune
+ORD1495,Sneha Kapoor,sneha495@gmail.com,Gaming Mouse,Electronics,2026-01-12,COD,6802,Delivered,2026-01-20,Pending Refund,Mumbai
+ORD1496,Arjun Mehta,arjun496@gmail.com,Wireless Earbuds,Electronics,2026-02-11,Debit Card,1813,Cancelled,N/A,Not Applicable,Chandigarh
+ORD1497,Priya Verma,priya497@gmail.com,Laptop Backpack,Accessories,2026-01-11,Credit Card,17019,Delivered,2026-01-21,Completed,Hyderabad
+ORD1498,Rahul Sharma,rahul498@gmail.com,Smart Watch,Electronics,2026-01-04,UPI,16874,Refund Initiated,N/A,Not Applicable,Pune
+ORD1499,Amit Singh,amit499@gmail.com,Running Shoes,Fashion,2026-02-12,Net Banking,5230,Refund Initiated,N/A,Completed,Chandigarh
+ORD1500,Sneha Kapoor,sneha500@gmail.com,Wireless Earbuds,Electronics,2026-01-30,Credit Card,10327,Shipped,2026-02-02,None,Delhi

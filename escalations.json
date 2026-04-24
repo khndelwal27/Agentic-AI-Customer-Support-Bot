@@ -1,0 +1,37 @@
+[
+  {
+    "ticket_id": "TKT0001",
+    "query": "",
+    "intent": "Product inquiry",
+    "confidence": 0.20888369561435194,
+    "time": "2026-02-18 21:59:55.565858"
+  },
+  {
+    "ticket_id": "TKT0002",
+    "query": "",
+    "intent": "Product inquiry",
+    "confidence": 0.20888369561435194,
+    "time": "2026-04-11 15:29:08.514554"
+  },
+  {
+    "ticket_id": "TKT0003",
+    "query": "arjun mehta",
+    "intent": "Product inquiry",
+    "confidence": 0.20888369561435194,
+    "time": "2026-04-11 15:37:31.130976"
+  },
+  {
+    "ticket_id": "TKT0004",
+    "query": "priya verma",
+    "intent": "Product inquiry",
+    "confidence": 0.20888369561435194,
+    "time": "2026-04-11 15:37:49.500746"
+  },
+  {
+    "ticket_id": "TKT0005",
+    "query": "my phone exploded yesterday",
+    "intent": "Product inquiry",
+    "confidence": 0.28604911793889026,
+    "time": "2026-04-14 14:00:32.366212"
+  }
+]
